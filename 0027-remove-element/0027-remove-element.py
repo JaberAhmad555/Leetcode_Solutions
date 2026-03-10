@@ -16,6 +16,3 @@ class Solution(object):
             else:
                 continue
         return k
-
-
-        
