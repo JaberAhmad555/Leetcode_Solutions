@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/JaberAhmad555/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0392-is-subsequence](https://github.com/JaberAhmad555/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/JaberAhmad555/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/JaberAhmad555/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/JaberAhmad555/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
